@@ -1,0 +1,73 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+*.env
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+*.whl
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs and database files
+logs/
+*.log
+*.sqlite3
+*.db
+*.sqlite
+*.sql
+*.csv
+
+# Unit test and coverage reports
+.coverage
+.tox/
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# MacOS and Windows
+.DS_Store
+Thumbs.db
+
+# Python-specific caches
+*.pyo
+*.pyd
+*.pdb
+*.pyc
+
+# Linting and code analysis
+.mypy_cache/
+.pytest_cache/
+.coverage/
+.pyre/
+.pytype/
+ruff_cache/
+
+# Docker and Cloud Services
+*.dockerignore
+.envrc
+.vscode/settings.json
+
+# Jupyter Notebook output
+*.out
+*.ipynb_checkpoints/
